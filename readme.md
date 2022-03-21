@@ -21,3 +21,5 @@ Default Feature Repositories Github Repo Link
 10. image picker - https://github.com/Flutter-Learning-Community/image_picker -  TASK-2022-01237
 
 11. Auto Update - https://github.com/Flutter-Learning-Community/auto_update/tree/auto_update - TASK-2022-01203
+
+12. Calender - https://github.com/Flutter-Learning-Community/Calender - TASK-2022-01205 
