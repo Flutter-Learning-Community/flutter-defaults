@@ -26,4 +26,4 @@ Default Feature Repositories Github Repo Link
 
 13. Sharedpreference -  https://github.com/Flutter-Learning-Community/sharedpreference - TASK-2022-01267
 
-14. Geolocator - https://github.com/Flutter-Learning-Community/flutter-defaults.git - TASK-2022-01337
+14. Geolocator -https://github.com/Flutter-Learning-Community/geolocator - TASK-2022-01337
