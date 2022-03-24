@@ -29,3 +29,13 @@ Default Feature Repositories Github Repo Link
 14. App Tour  - https://github.com/Flutter-Learning-Community/App_Tour - TASK-2022-01338
   
 15. Flutter Chart  - https://github.com/Flutter-Learning-Community/flutter_charts  -  TASK-2022-01339
+
+16. Geolocator- https://github.com/Flutter-Learning-Community/geolocator -TASK-2022-01337
+
+
+17. Notification - https://github.com/Flutter-Learning-Community/Notification -TASK-2022-01340
+
+18. Local Notification -https://github.com/Flutter-Learning-Community/Local_notification - TASK-2022-01340
+
+
+
