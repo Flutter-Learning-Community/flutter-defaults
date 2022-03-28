@@ -39,5 +39,7 @@ Default Feature Repositories Github Repo Link
 
 19. BottomSheet Types - https://github.com/Flutter-Learning-Community/Bottomsheet_types - TASK-2022-01367
 
+20. LoadingAnimation - https://github.com/Flutter-Learning-Community/loading_animation - TASK-2022-01368
+
 
 
