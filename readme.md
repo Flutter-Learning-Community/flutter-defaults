@@ -37,5 +37,7 @@ Default Feature Repositories Github Repo Link
 
 18. Local Notification -https://github.com/Flutter-Learning-Community/Local_notification - TASK-2022-01340
 
+19. BottomSheet Types - https://github.com/Flutter-Learning-Community/Bottomsheet_types - TASK-2022-01367
+
 
 
