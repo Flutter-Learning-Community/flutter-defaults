@@ -37,5 +37,10 @@ Default Feature Repositories Github Repo Link
 
 18. Local Notification -https://github.com/Flutter-Learning-Community/Local_notification - TASK-2022-01340
 
+19. BottomSheet Types - https://github.com/Flutter-Learning-Community/Bottomsheet_types - TASK-2022-01367
+
+20. LoadingAnimation - https://github.com/Flutter-Learning-Community/loading_animation - TASK-2022-01368
+
+21. Flutter Forms - https://github.com/Flutter-Learning-Community/flutter_forms/edit/master/README.md -  TASK-2022-01367
 
 
