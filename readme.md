@@ -50,3 +50,5 @@ Default Feature Repositories Github Repo Link
 25. sqflite Database - https://github.com/Flutter-Learning-Community/sqflite_database -TASK-2022-01411
 
 26. Provider - https://github.com/Flutter-Learning-Community/provider - TASK-2022-01431
+
+27. Animation - https://github.com/Flutter-Learning-Community/animation_package_2
