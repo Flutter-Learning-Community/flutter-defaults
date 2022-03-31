@@ -54,3 +54,5 @@ Default Feature Repositories Github Repo Link
 27. Animation02 - https://github.com/Flutter-Learning-Community/animation_package_2
 
 28. Animation01 - https://github.com/Flutter-Learning-Community/animation_package_1 -TASK-2022-01430
+
+29.Firebase - https://github.com/Flutter-Learning-Community/Firebase - TASK-2022-01423
